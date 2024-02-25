@@ -1,0 +1,85 @@
+Coding Questions:
+1. Palindrome Number
+2. Factorial of a Number
+3. Armstrong Number
+4. Find Even or Odd Number
+5. Sort the Array
+6. Reverse the Array
+7. Find second largest number
+8. Linear Search
+9. Binary Search
+10. Calculate average of elements present at even index in an array
+11. Java String program to check whether a string is a Palindrome
+12. Java String Program to Check Anagram
+13. Java String Program to Reverse a String
+---------------------------------------------------------------------------------------------------------------
+Theoretical Questions on Java/Strings/OOPS:
+1) What is String pool
+2) what is String builder
+3) Difference between String builder and String Buffer
+4) Why String is immutable
+5) Why Java is platform independent 
+6) Difference between Array and Linked List which one is better
+7) What are the Memory allocations available in Java
+8) JDk, JRE and JVM
+9) What is a Class Loader
+10) What is Construtor in Java
+11) Generics
+12) Regular Expression
+----------------------------------------------------------------------------------------------------------------
+Collections:
+1) List
+2) Array List
+3) Linked List
+4) Map
+5) HashMap
+6) HashTable
+7) Set
+8) HashSet
+9) TreeSet
+10) Internal Working of HashMap
+-----------------------------------------------------------------------------------------------------------------
+GitHub:
+Push First Message on GitHub "Welcome to Employee Wage" or any Message:
+
+Note: Always Push First Code on Master Branch
+
+1) Create Git Repository - Click New on Github
+
+//On Gitbash now
+2) Initialize Git : git init
+3) Add Code to Staging Area: git add .
+4) Commit: git commit -m "Added: Something"
+5) Add Address: git remote add origin "http://abc"
+6) Push Code on GitHub on Master: git push origin master
+* Push Usecase to GitHub
+
+Note: Always Create Separate Branch for for Each Usecase, then push on that branch and Merge to Master
+
+1) Add Code to Staging Area: git add .
+2) Commit: git commit -m "Added: Something"
+3) Create Branch: git switch -b Branch_Name example Is_Employee_Present_Or_Absent based on Usecases
+6) Push Code on GitHub on Branch: git push origin BranchName
+
+Then Merge this branch to Master: 
+1) First Switch on Master: git checkout master
+2) Then Merge: git merge Branch_Name
+3) Push to Master: git push origin master
+---------------------------------------------------------------------------------------------------------------------
+Design Patterns:
+1) Singleton Pattern
+2) Factory Design Pattern
+3) Observer Design Pattern
+4) Facade Design Pattern
+---------------------------------------------------------------------------------------------------------------------
+Exception Handling:
+1) Explain Exception Hierarchey
+2) Explain Final, Finally and Finalize
+3) Explain Throw, Throws, Try-Catch and Finally
+4) Checked Vs Unchecked Exceptions
+5) Create Custom Exception
+6) Can we use multiple catch blocks
+7) Can we use multiple try blocks
+8) What id Difference between Error and Exceptions
+9) Why Exception and Exception Handling needed
+----------------------------------------------------------------------------------------------------------------------

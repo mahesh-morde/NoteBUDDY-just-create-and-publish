@@ -1,0 +1,95 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Favicons -->
+    <link href="{% static 'assets/img/favicon.png' %}" rel="icon">
+    <link href="{% static 'assets/img/apple-touch-icon.png' %}" rel="apple-touch-icon">
+    <title>NoteBUDDY</title>
+
+    <style>
+	
+        .row {
+            display: flex;
+            justify-content: center; /* Center the items horizontally */
+            align-items: center; /* Center the items vertically */
+        }
+
+        .col-md-6 {
+            width: 50%; /* Each column takes 50% of the width */
+        }
+
+        .thankyou-wrapper {
+            width: 100%;
+            height: auto;
+            background: gray;
+            padding: 10px 0px 50px;
+        }
+
+        .thankyou-wrapper h1 {
+            font: 100px Arial, Helvetica, sans-serif;
+            text-align: center;
+            color: #333333;
+            padding: 0px 10px 10px;
+			margin-bottom: 30px;
+        }
+
+        .thankyou-wrapper p {
+            font: 26px Arial, Helvetica, sans-serif;
+            text-align: center;
+            color: #333333;
+            padding: 5px 10px 10px;
+			
+        }
+
+        .thankyou-wrapper a {
+            font: 26px Arial, Helvetica, sans-serif;
+            text-align: center;
+            color: #ffffff;
+            display: block;
+            text-decoration: none;
+            width: 200px;
+            background: #e47425;
+            margin: 10px auto 0px;
+            padding: 15px 20px 15px;
+            border-bottom: 5px solid #f96700;
+			border-radius: 10px;
+        }
+
+        .thankyou-wrapper a:hover {
+            font: 26px Arial, Helvetica, sans-serif;
+            text-align: center;
+            color: #ffffff;
+            display: block;
+            text-decoration: none;
+            width: 250px;
+            background: #f96700;
+            margin: 10px auto 0px;
+            padding: 15px 20px 15px;
+            border-bottom: 5px solid #f96700;
+        }
+
+        .col-md-6 img {
+            width: 80%; /* Make the image fill its container */
+            height: auto; /* Maintain aspect ratio */
+			margin-bottom: 2px;
+        }
+    </style>
+</head>
+<body style="background-color: gray">
+    <div class="row">
+        <div class="col-md-6">
+            <section class="thankyou-wrapper">
+                <h1><img src="M:\Downloads\PinClipart.com_mission-impossible-clipart_1563607.png" alt="Mission Failed"></h1>
+                <p>Don,t loose the hopes soldier, standup and start again..... </p>
+                <a href="../contrib">Back to pay</a>
+            </section>
+        </div> 
+        <div class="col-md-6">
+			<img src="https://media.tenor.com/53zv2EZ6rogAAAAi/drop-dbz.gif" alt="Goku Thumbs Up" style="max-height: 90vh;">
+        </div>
+    </div>
+</body>
+</html>

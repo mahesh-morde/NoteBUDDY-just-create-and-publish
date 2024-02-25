@@ -1,0 +1,99 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Favicons -->
+    <link href="{% static 'assets/img/favicon.png' %}" rel="icon">
+    <link href="{% static 'assets/img/apple-touch-icon.png' %}" rel="apple-touch-icon">
+    <title>NoteBUDDY</title>
+
+    <style>
+	
+        .row {
+            display: flex;
+            justify-content: center; /* Center the items horizontally */
+            align-items: center; /* Center the items vertically */
+        }
+
+        .col-md-6 {
+            width: 50%; /* Each column takes 50% of the width */
+        }
+
+        .thankyou-wrapper {
+            margin-top: 6%;
+            margin-left: 7%;
+            width: 90%;
+            height: auto;
+            background: gray;
+            padding: 10px 0px 50px;
+            border-radius: 10px;
+        }
+
+        .thankyou-wrapper h1 {
+            font: 100px Arial, Helvetica, sans-serif;
+            text-align: center;
+            color: #333333;
+            padding: 0px 10px 10px;
+			margin-bottom: 30px;
+        }
+
+        .thankyou-wrapper p {
+            font: 26px Arial, Helvetica, sans-serif;
+            text-align: center;
+            color: #333333;
+            padding: 5px 10px 10px;
+			
+        }
+
+        .thankyou-wrapper a {
+            font: 26px Arial, Helvetica, sans-serif;
+            text-align: center;
+            color: #ffffff;
+            display: block;
+            text-decoration: none;
+            width: 200px;
+            background: #d92f87;
+            margin: 10px auto 0px;
+            padding: 15px 20px 15px;
+            border-bottom: 5px solid #650d59;
+			border-radius: 10px;
+        }
+
+        .thankyou-wrapper a:hover {
+            font: 26px Arial, Helvetica, sans-serif;
+            text-align: center;
+            color: #ffffff;
+            display: block;
+            text-decoration: none;
+            width: 250px;
+            background: #d82460;
+            margin: 10px auto 0px;
+            padding: 15px 20px 15px;
+            border-bottom: 5px solid #560e4b;
+        }
+
+        .col-md-6 img {
+            width: 80%; /* Make the image fill its container */
+            height: auto; /* Maintain aspect ratio */
+			margin-bottom: 2px;
+        }
+    </style>
+</head>
+<body style="background-image: url('https://usagif.com/wp-content/uploads/gifs/starfall-gif-68.gif') !important">
+    <div class="row">
+        <div class="col-md-6">
+            <section class="thankyou-wrapper">
+                <h1><img src="http://montco.happeningmag.com/wp-content/uploads/2014/11/thankyou.png" alt="thanks" /></h1>
+                <p>Your payment receipt will be delivered to your email shortly....Glad to have you on our side🤩 </p>
+                <a href="../">Back to home</a>
+            </section>
+        </div> 
+        <div class="col-md-6">
+         <!--   <img src="https://media.tenor.com/gEZoT1KhhtwAAAAi/son-goku-thumbs-up.gif" alt="Goku Thumbs Up">  -->
+			<img src="https://media.tenor.com/wRGIQIzdKq8AAAAi/anime-girl-fortnite-dance.gif" alt="Goku Thumbs Up" style="max-height: 90vh;">
+        </div>
+    </div>
+</body>
+</html>

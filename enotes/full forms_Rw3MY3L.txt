@@ -1,0 +1,126 @@
+AWS Short Forms
+
+AWS - Amazon Web-Services
+CAF - AWS Cloud Adoption Framework
+CC - Cloud Computing
+VMs- Virtual Machines
+
+Cloud Service Models
+IaaS - Infrastructure as a Service
+Paas - Platform as a Service
+SaaS - Software as a Service
+
+IAM - Identity & Access Management
+EC2 - Elastic Cloud Compute
+EBS - Elastic Block Store
+EFS - Elastic File Storage
+ECS - Elastic Container Service
+EKS - Elastic Kubernetes Service
+ECR - Elastic Container Registry 
+S3 - Simple Storage Service
+ACL - Access Control List
+S-IA - S3 Standard-Infrequent Access 
+RDS - Relational Database Service
+RDMS -  Relational Database Management Service 
+ODBC -  Open Database Connectivity
+AWS DMS - WSDatabase Migration Service 
+VPC - Virtual Private Cloud
+AMIs - Amazon Machine Images
+EDW- Enterprise Data Warehouse
+
+SLAs - Service Level Agreements 
+
+capex - Capital expenses
+XML - Extensible Markup Language
+JSON - JavaScript Object Notation
+API - Application Programming Interface
+
+ELB - Elastic Load Balancing
+CAF - Cloud Adoption Framework
+MFA - Multi-Factor Authentication 
+KMS - Key Management Service 
+CIDR - Classless Inter-Domain Routing 
+NAT - Network Address Translation 
+AWS TG - AWS Transit Gateway
+Network ACLs - Network Access Control Lists 
+DNS - Domain Name System
+Amazon EKS - Amazon Elastic Kubernetes Service 
+Amazon ECR - Amazon Elastic Container Registry 
+AWS EB - AWS Elastic Beanstalk
+AWS TA - AWS Trusted Advisor 
+AWS KMS - AWS Key Management Service
+AWS CLI - Command Line Interface 
+SDKs - Software Development Kits 
+
+
+Traditional 
+DAS - Direct Attached Storage 
+SAN - Storage Area Networks
+NAS - Network Attached Storage
+
+
+RIs - Reserved Instances
+AURI - All Upfront Reserved Instance
+PURI - Partial Upfront Reserved Instance 
+NURI - No Upfront Payments Reserved Instance 
+
+TCO - Total Cost of Ownership
+ROI - Return On Investment 
+SAN - Storage Area Network
+FC - Fibre Channel
+
+OUs - Organizational Units
+SCPs - Service Control Policies 
+
+Amazon SNS - Amazon Simple Notification Service 
+Amazon SQS - Amazon Simple Queue Service 
+TAM - Technical Account Manager
+
+CDN - Content Delivery Network 
+AWS WAF - AWS Web Application Firewall 
+NFS - Network File System
+
+IIF - Internet Information Services
+DDoS - Distributed Denial of Service
+SSH Key - ecure Shell Key
+U2F security Key - Universal 2nd Factor Security KEy
+HSMs - Hardware Security Modules
+FIPS - Federal Information ProcessingStandards
+CMKs - Customer master keys
+SAML -  Security Assertion Markup Language 
+AES - AdvancedEncryption Standard
+TLS - Transport Layer Security
+SSL - Secure Sockets Layer
+PCI - Payment Card Industry
+SOC - Service Organization Control 
+
+SSE-S3 - Amazon S3-managed encryption keys 
+SSE-C - Customer-provided Encryption Keys 
+AWS KMS - AWS Key Management Service
+CMKs - Customer Master Keys
+
+IOPS - Input/Output Operations Per Second
+
+CIDR - Classless Inter-Domain Routing 
+OSI - Open Systems Interconnection
+IDE - Integrated Development Environment 
+
+NAT - Network Address Translation
+APN - AWS Partner Network 
+ACM - AWS Certificate Manager 
+
+ENA- Elastic Network Adapter 
+
+TCP - Transmission Control Protocol 
+UDP - User Datagram Protocol
+CMP -  Internet Control Message Protocol 
+ICMP - Internet Control Message Protocol 
+RDP - Remote Desktop Protocol 
+
+
+Dx gatway - Direct Connect Gateway
+
+BI Tools - Business Intelligence Tools
+
+TTL - Time-to-Live
+GUID - Globally Unique Identifier 
