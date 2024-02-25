@@ -1,6 +1,8 @@
 <h2>NoteBUDDY - Online Note Sharing Platform</h2>
 NoteBUDDY is a Django-based web application that allows users to create, publish, and manage their notes online. Users can perform CRUD (Create, Read, Update, Delete) operations on their notes, and they have the option to publish notes for others to access on the Global Notes Zone. The project ensures user privacy through a robust user authentication system, allowing users exclusive access to their unpublished notes.
 
+You can take a quick walkthrough of the project here --> https://youtu.be/6BuIg4eB66o
+
 <h4>Features</h4>
 <b>User Authentication:</b> Secure user accounts with authentication and authorization.<br>
 <b>CRUD Operations:</b> Users can Create, Read, Update, and Delete their notes.<br>
